@@ -1,2 +1,7 @@
 Step 1: 
     cmd: npm init -y
+Step 2: 
+    cmd: npm i express dotenv hbs mysql
+Step 3:
+    cmd: npm i --save nodemon
+
